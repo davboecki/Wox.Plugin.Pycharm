@@ -1,0 +1,12 @@
+{
+    "ID":"11602ae7-00fd-4d47-8b4c-cd44f6a25c3a",
+    "ActionKeyword":"pycharm",
+    "Name":"PyCharm",
+    "Description":"Opens a recently used directory in PyCharm",
+    "Author":"davboecki",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/davboecki/Wox.Plugin.Pycharm",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py"
+}
